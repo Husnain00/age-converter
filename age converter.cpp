@@ -22,7 +22,7 @@ int main (void)
 	printf("\nyour age in days %d\n",days);
 	hours=days*24;
 	printf("\nyour age in hours %d\n",hours);
-	mints=hours*60;
+	minuts=hours*60;
 	printf("\nyour age in mints %d\n",minuts);
 	seconds=minuts*60;
 	printf("\nyour age in seconds %.0Lf\n",seconds);
